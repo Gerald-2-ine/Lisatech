@@ -1,0 +1,65 @@
+		AN ALGORITM ON HOW TO TO MAKE EGUSI SOUP
+
+		STEPS ON HOW TO PLAN AND  PREPARE THIS RECIPE
+  . START
+1. I want to make Egusi for two persons 
+2. What items do i need for this recipe?
+     . Egusi (2 cups) = 900
+     . Cow meat = 700
+     . Stock fish = 100
+     . onions = 50
+     . seasoning cubes = 50 
+     . palm oil = 300
+     . crayfish = 100
+     . pumpkin leaf = 100
+     . pepper = 100
+     . castor oil bean = 50
+     . salt = 50 
+     . Transport fare = 600
+     . Total = 3100
+     If "items exists,"break", move to step 8;
+     else "continue with step 3".
+3. How do I get the  items?
+     If "items  are going to be purchased by me 
+     then proceed to the market ",
+     else "soak garri and sugar".
+4. Where do I buy the items ? 
+     If "step 3 is true  items will be gotten from ifite market"
+     else "go to mama ngozi's shop and buy garri and sugar".
+     else "stay hungry".
+5. What is my budget?
+     Budget = 3500
+     If "budget of items listed in step 2 < 3100", remove "onions and Cow meat"
+     else "no Egusi"
+     else "proceed to the next step".
+     if  "price of items in step 1 is more than the price bargained, negotiate with seller,
+     if  "less, still negotiate,
+     else "move to step 7 and stop
+6. Implement step 4 and 5, which means go and buy the items.
+7. Go back home 
+8. Enter and clean the kitchen
+9. Arrange what you bought in the market.
+10. Wash your meat with salt
+11. Spice the meat with seasoning cubes, salt and onions in a bowl for 10 minutes to marinate
+      If Cowmeat is refrigerated, put it in a pot and spice it, put on the fire and steam it without water in  a pot at low temperature for 5 minutes 
+      else "put on the fire and steam it straight away"
+      if "Cow meat is uncutted , cut it, wash, spice to marinate for 10 minutes and steam it"
+      else "put on the fire and steam it right away".
+12. when the color of the meat is pale brown, add your stock fish and salt with 1  bowl of water 💦13. mix egusi with water and mold into folds ,put them into the pot of meat to boil
+14. Grind crayfish, castor oil bean seed and pepper and add it into the pot.
+15. If the egusi is white in colour scoop them out and pound them using your mortar and pestle,
+      else keep cooking till it's white 
+16. After pounding egusi, put back into the pot and continue cooking .
+17. Taste for salt,
+       If there's  more  water than salt, add more salt to your taste 
+       else break
+       If there's  no water or more water than salt, add more water
+       else move to the next step
+18. If soup is burning 🔥, add more water and turn it every 5 seconds
+       else cover to cook
+19. Add 2 cooking spoon of palm oil 🛢and turn it, cover the pot and cook.
+20. Once the oil in the soup is cooked well, turn the soup and mix well.
+21. Wash your punpkin leaves twice with salt and put into the pot and mix well.
+22. When the soup bubbles has reduced, turn the soup and put it aside.
+23. Put out the fire and clean up the kitchen.
+24. STOP. 

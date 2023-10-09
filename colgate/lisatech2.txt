@@ -1,0 +1,14 @@
+		ALGORITM TO FIND THE SQUARE ROOT OF A NUMBER
+
+1. START
+2. Find the square root of a number = (number, epsilon=1e-6)
+3. Take a guess (half of the input number)
+     guess = number/2
+4. while (guess*guess-number > epsilon):
+      If condition = true
+       continue 
+        else stop and print guess
+          else repeat until condition is false
+     Update the guess create (new_guess = guess + number / guess) / 2
+5. Once the loop has beeen exited, print square root = guess      
+   
